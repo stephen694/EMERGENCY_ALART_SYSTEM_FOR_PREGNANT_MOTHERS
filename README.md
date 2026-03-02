@@ -1,3 +1,4 @@
+ Julius-branch
 # Emergency Alert System for Pregnant Mothers in Kenya
 
 > *Saving Lives with One Button — Fast, Simple, Reliable Maternal Emergency Alerts*
@@ -240,3 +241,8 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 
 *Designed specifically for the Kenyan context — leveraging existing GSM infrastructure to address a life-critical communication gap for pregnant women in rural and semi-urban Kenya.*
+# EMERGENCY_ALART_SYSTEM_FOR_PREGNANT_MOTHERS
+
+## Collaborators
+1. Masika: Supervisor
+2. main
